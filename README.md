@@ -1,8 +1,8 @@
 ## Olá, eu sou o Arthur 👋
 
-**Automação de processos e agentes de IA.** Pego tarefas manuais e repetitivas e transformo em fluxos que rodam sozinhos e construo as interfaces web que ficam na frente deles.
+**Automação de processos e agentes de IA.** Pego tarefas manuais e repetitivas e transformo em fluxos que rodam sozinhos, construindo junto interfaces web como frontend.
 
-Já entreguei mais de 20 projetos para clientes reais: sites, landing pages de captação, chat de qualificação de leads e automações internas.
+Já entreguei projetos para clientes reais como: sites, landing pages de captação, chat de qualificação de leads e automações internas.
 
 ---
 
